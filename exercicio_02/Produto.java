@@ -1,4 +1,4 @@
-package exercicio_02;
+package Exercicio_02;
 
 import java.util.Date;
 
