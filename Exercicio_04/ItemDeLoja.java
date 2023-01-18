@@ -1,6 +1,6 @@
 package Exercicio_04;
 
-public class ItemDeLoja {
+public class ItemDeLoja{
 
 	 private int codigoDoItem;
 	    private String nomeDoItem;

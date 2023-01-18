@@ -1,6 +1,6 @@
 package Exercicio_04;
 
-public class Ferramenta {
+public class Ferramenta extends ItemDeLoja {
 
 	private String categoria;
 	private int serial;

@@ -1,6 +1,6 @@
 package Exercicio_04;
 
-public class Alimento {
+public class Alimento extends ItemDeLoja {
 	
 	private int selo;
 

@@ -53,7 +53,8 @@ public class MeioDeTransporte {
 	}
 	
 	public double consumo() {
-		return (getPotencia * this.carga_maxima)*100; 
+		return (this.potencia * this.carga_maxima)*100; //como puxar o atributo da classe filha para a classe mãe??
+	}													//criei o atributo na classe mãe, verificar se pode
 	
 	
 	
